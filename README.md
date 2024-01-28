@@ -39,4 +39,4 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 - The challenge is pretty straightforward style-wise, but this time I tried using "utility" classes like .container, .card, .pill, and followed BEM naming throughout.
 - Again, getting it to look "exactly" like in the design screenshots took me quite a while...
-- Using vanilla js even for something as simple as this is _not_ easy!
+- Using vanilla js even for something as simple as this is NOT easy!
