@@ -16,9 +16,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Screenshots
 
 ![](./screenshots/screenshot_page1_chrome_desktop.png)
+![](./screenshots/screenshot_page1_selected_chrome_desktop.png)
 ![](./screenshots/screenshot_page2_chrome_desktop.png)
-![](./screenshots/screenshot_page1_chrome_mobile.png)
-![](./screenshots/screenshot_page2_chrome_mobile.png)
 
 ### Links
 
